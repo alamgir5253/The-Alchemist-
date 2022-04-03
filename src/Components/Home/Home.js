@@ -1,8 +1,11 @@
 import React from 'react';
 import './Home.css'
 import alchemist from '../../image/alchemist.jpg'
-
+import useReviews from '../../Hook/CustomHook'
+import CustomerReview from '../CustomerReview/CustomerReview'
+import { NavLink } from 'react-router-dom';
 const Home = () => {
+    const  [reviews] = useReviews()
     return (
         <div>
             <div className='px-20 md:flex h-[100vh] justify-between items-center'>
@@ -16,7 +19,14 @@ const Home = () => {
                     <img className='w-full' src={alchemist} alt="al" />
                 </div>
             </div>
-            <div></div>
+            <div className='grid grid-cols-3 gap-4'>
+               {
+                   reviews.slice(0,3).map(rev => <CustomerReview key={rev.id} rev={rev}></CustomerReview> )
+               }
+            </div>
+            <div className='flex justify-center my-5 '>
+            <NavLink to= '/reviews' className={({isActive})=> isActive ? 'active' : 'normal'}>reviews</NavLink>
+            </div>
         </div>
     );
 };
