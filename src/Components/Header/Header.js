@@ -4,9 +4,8 @@ import './Header.css'
 const Header = () => {
     return (
         <div>
-            <div>
+            <div className='text-center h-20 py-6 flex justify-center items-center gap-4 uppercase  bg-slate-300'>
                 <NavLink to= 'home' className={({isActive})=> isActive ? 'active' : 'normal'}>home</NavLink>
-                <NavLink to= 'reviews' className={({isActive})=> isActive ? 'active' : 'normal'}>reviews</NavLink>
                 <NavLink to= 'reviews' className={({isActive})=> isActive ? 'active' : 'normal'}>reviews</NavLink>
                 <NavLink to= 'dash-board' className={({isActive})=> isActive ? 'active' : 'normal'}>dash-board</NavLink>
                 <NavLink to= 'contact' className={({isActive})=> isActive ? 'active' : 'normal'}>contact</NavLink>
