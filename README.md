@@ -1,6 +1,8 @@
 # THE ALCHEMIST
 code link: [https://github.com/programming-hero-web-course-4/product-analysis-website-alamgir5253](https://github.com/programming-hero-web-course-4/product-analysis-website-alamgir5253)
 
+live site link: [https://the-alchemist-assignment-9.netlify.app/](https://the-alchemist-assignment-9.netlify.app/)
+
 # about this site 
 -  This is a simple spa react site.
 - I use tailwind css to style this site.
