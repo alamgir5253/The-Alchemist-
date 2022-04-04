@@ -1,3 +1,17 @@
+# THE ALCHEMIST
+code link: [https://github.com/programming-hero-web-course-4/product-analysis-website-alamgir5253](https://github.com/programming-hero-web-course-4/product-analysis-website-alamgir5253)
+
+# about this site 
+-  This is a simple spa react site.
+- I use tailwind css to style this site.
+- I use a react router to route.
+- I use recharts to make a dashboard
+# How it’s work
+- Click the review icon from top of the site to see reviews of the book
+- Click the dashboard icon to see the selling chart 
+- Click the blogs icon to see answer
+- you can also go to review page by clicking review button below the home page
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
