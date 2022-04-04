@@ -1,44 +1,44 @@
 [
     {
       "id": 1,
-      "name": "alamgir",
-      "review": "something",
-      "rating": 4.5,
+      "name": "salman khan",
+      "review": "this is easily one of my favorites books.",
+      "rating": 4.9,
       "photo": "https://images.indiawords.com/wp-content/uploads/2017/11/nice-looking-image-of-salman-khan.jpg"
     },
     {
       "id": 2,
-      "name": "alamgir",
-      "review": "something",
-      "rating": 4.5,
-      "photo": "https://images.indiawords.com/wp-content/uploads/2017/11/nice-looking-image-of-salman-khan.jpg"
+      "name": "Shahrukh Khan",
+      "review": "The book is lovely and an inspirational masterpiece",
+      "rating": 4.9,
+      "photo": "https://www.teahub.io/photos/full/65-651808_shahrukh-khan-best-hd-photos-21494-srk-black.jpg "
     },
     {
       "id": 3,
-      "name": "alamgir",
-      "review": "something",
+      "name": "aamir khan",
+      "review": "The Alchemist is one of those books which deserves a space in everyone's bookshelf.",
       "rating": 4.5,
-      "photo": "https://images.indiawords.com/wp-content/uploads/2017/11/nice-looking-image-of-salman-khan.jpg"
+      "photo": "https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2020/10/05/Pictures/_04663caa-0710-11eb-adc0-f7cc04e39ce3.jpg"
     },
     {
       "id": 4,
-      "name": "alamgir",
-      "review": "something",
-      "rating": 4.5,
-      "photo": "https://images.indiawords.com/wp-content/uploads/2017/11/nice-looking-image-of-salman-khan.jpg"
+      "name": "amitabh bachchan",
+      "review": "The alchemist is a beautiful inspiring story of a shepherd boy",
+      "rating": 4,
+      "photo": "https://www.biography.com/.image/t_share/MTE1ODA0OTcxOTg4MDU5NjYx/raavan---uk-film-premiere-red-carpet-arrivals.jpg"
     },
     {
       "id": 5,
-      "name": "alamgir",
-      "review": "something",
-      "rating": 4.5,
-      "photo": "https://images.indiawords.com/wp-content/uploads/2017/11/nice-looking-image-of-salman-khan.jpg"
+      "name": "tom cruise",
+      "review": "The book is a bundle of optimism, motivating readers to follow what their heart desires",
+      "rating": 4.6,
+      "photo": "https://images.mubicdn.net/images/cast_member/2184/cache-2992-1547409411/image-w856.jpg?size=800x"
     },
     {
       "id": 6,
-      "name": "alamgir",
-      "review": "something",
+      "name": "bear gills",
+      "review": "Great motivator with the help of adventurous story",
       "rating": 4.5,
-      "photo": "https://images.indiawords.com/wp-content/uploads/2017/11/nice-looking-image-of-salman-khan.jpg"
+      "photo": "https://images.mubicdn.net/images/cast_member/675921/cache-559037-1592892122/image-w856.jpg?size=800x"
     }
   ]

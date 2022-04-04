@@ -10,7 +10,7 @@ import About from './Components/About/About'
 import NotFound from './Components/NotFound/NotFound'
 function App() {
   return (
-    <div className="App">
+    <div className="App bg-yellow-50">
       <Header></Header>
       <Routes>
         <Route path='/' element={<Home></Home>}></Route>
