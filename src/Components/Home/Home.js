@@ -19,7 +19,8 @@ const Home = () => {
                     <img className=' rounded m h-96 mx-auto' src={alchemist} alt="al" />
                 </div>
             </div>
-            <div className=' grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-4 mt-20 '>
+            <h1 className='text-slate-900 text-3xl font-bold text-center my-20 uppercase'>Reviews</h1>
+            <div className=' grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-4  '>
                {
                    reviews.slice(0,3).map(rev => <CustomerReview key={rev.id} rev={rev}></CustomerReview> )
                }
